@@ -5,7 +5,7 @@ html {
     scroll-behavior: smooth;
 }
 body {
-    background-image: url(../images/bg.jpg);
+    background-image: url(/images/bg.jpg);
     background-repeat: repeat;
     background-color: #f8f8f8;
     background-attachment: fixed;
@@ -52,7 +52,7 @@ li {
 }
 
 #about {
-    background-image: url(../images/top1.jpg);
+    background-image: url(/images/top1.jpg);
     background-color: #aaa;
     background-blend-mode: overlay;
     background-repeat: no-repeat;
@@ -63,7 +63,7 @@ li {
 
 }
 #event {
-    background-image: url(../images/top2.jpg);
+    background-image: url(/images/top2.jpg);
     background-color: #aaa;
     background-blend-mode: overlay;
     background-repeat: no-repeat;
@@ -75,7 +75,7 @@ li {
 }
 
 #inquiry {
-    background-image: url(../images/bg.jpg);
+    background-image: url(/images/bg.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: contain;
@@ -84,7 +84,7 @@ li {
 
 }
 #access {
-    background-image: url(../images/top3.jpg);
+    background-image: url(/images/top3.jpg);
     background-repeat: no-repeat;
     background-color: #bbb;
     background-blend-mode: overlay;
@@ -116,14 +116,14 @@ iframe {
     padding: 4%;
 }
 #contact {
-    background-image: url(../images/cat.jpg);
+    background-image: url(/images/cat.jpg);
     background-repeat: no-repeat;
     min-height: 30vh;
     background-size: 100%;
 
 }
 #topdiv {
-    background-image: url(../images/tmain.jpg);
+    background-image: url(/images/tmain.jpg);
     background-repeat: no-repeat;
     background-position: left;
     min-height: 100vh;
@@ -133,7 +133,7 @@ iframe {
 
 }
 #bodyp {
-    background-image: url(../images/neko.jpg);
+    background-image: url(/images/neko.jpg);
     background-repeat: no-repeat;
     background-position:  right;
     min-height: 100vh;
